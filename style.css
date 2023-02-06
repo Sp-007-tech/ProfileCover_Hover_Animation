@@ -62,5 +62,5 @@
 
 .card-wrapper:hover .profile-details h3,
 .card-wrapper:hover .profile-details p{
-    transform: translate(0) skew(-15deg);
+    transform: translatee(0) skew(-15deg);
 }
